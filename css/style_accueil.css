@@ -118,3 +118,7 @@ body{
 .contact{
 	font-size: 24px;
 }
+
+.verticalspacer {
+	height: 8em;
+}
